@@ -1,4 +1,4 @@
 <?php
-header("Location: https://gm1472.app.link/d62zjVMXs8");
+header("Location: https://www.amazon.in/s?k=asharfi+fabrics&ref=nb_sb_noss");
 die();
 ?>
